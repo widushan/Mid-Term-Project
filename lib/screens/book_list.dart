@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mid_term_project/widgets/book.dart';
 
-// classes
 class BookList extends StatelessWidget {
   const BookList({super.key});
 
