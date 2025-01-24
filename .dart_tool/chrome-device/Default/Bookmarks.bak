@@ -1,0 +1,188 @@
+{
+   "checksum": "77100bd103fefb845c533a630edfe018",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13302981375156543",
+            "date_last_used": "0",
+            "guid": "6078f2aa-7730-4535-a9fd-65cf6e63b0f6",
+            "id": "12",
+            "name": "Built-in Functions — Python 3.8.13 documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.python.org/3.8/library/functions.html#pow",
+            "visit_count": 0
+         }, {
+            "date_added": "13300687059207589",
+            "date_last_used": "0",
+            "guid": "b1eaa3e8-866f-4a09-a84a-366f57e704f5",
+            "id": "13",
+            "name": "google translate - Google Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=google+translate&oq=google+translate&aqs=chrome..69i57j0i512l2j0i131i433i512l2j0i512j0i131i433i512j0i512j0i131i433j0i271.12663j0j7&sourceid=chrome&ie=UTF-8",
+            "visit_count": 0
+         }, {
+            "date_added": "13316882649820385",
+            "date_last_used": "0",
+            "guid": "aa9d89fd-890e-4b49-858a-febb4f76569a",
+            "id": "14",
+            "name": "Imagine Cup - Student Developer Tools, Resources and Experiences | Imagine Cup",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://imaginecup.microsoft.com/en-us/Events",
+            "visit_count": 0
+         }, {
+            "date_added": "13321982458302723",
+            "date_last_used": "0",
+            "guid": "8ae1667a-9802-4d86-aa5e-126db0d0e125",
+            "id": "15",
+            "name": "What is Ethical (White Hat) Hacking | CEH Certification | Imperva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.imperva.com/learn/application-security/ethical-hacking/",
+            "visit_count": 0
+         }, {
+            "date_added": "13272154086919777",
+            "date_last_used": "0",
+            "guid": "c491f5db-9230-420e-a0c4-1588558a44f4",
+            "id": "16",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=webslice1819",
+            "visit_count": 0
+         }, {
+            "date_added": "13349549804802498",
+            "date_last_used": "0",
+            "guid": "99ebefef-1613-49e4-9525-5b6e1c57a100",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "*ilovepdf_merged (1).pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/hp/Downloads/ilovepdf_merged%20(1).pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13351968796394874",
+            "date_last_used": "0",
+            "guid": "fe2ef1c4-2e0e-4092-b484-c1b5cb35ac51",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Image Creator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/images/create/wallpaper-for-linkedin-profile-mentioning-ca-pasi/1-65c64ede435d4b8cbd02a75b771bba86?id=JCNVwAEyetOVqT%2bpL%2bgGPw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&frame=sydedg&FORM=SYDBIC",
+            "visit_count": 0
+         }, {
+            "date_added": "13382185812591831",
+            "date_last_used": "0",
+            "guid": "2306d3db-6d2e-41f5-af59-671f785d8cc2",
+            "id": "9",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites",
+            "visit_count": 0
+         }, {
+            "date_added": "13382185812591749",
+            "date_last_used": "0",
+            "guid": "c653b058-1fdc-4977-83f2-065946af2747",
+            "id": "8",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020",
+            "visit_count": 0
+         }, {
+            "date_added": "13382185812591627",
+            "date_last_used": "0",
+            "guid": "bd4734d7-1a20-465c-b4e8-c9055f5d5151",
+            "id": "7",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13382185812590346",
+            "date_last_used": "0",
+            "guid": "59b091f2-46f8-4d62-aa8c-1211bf6abf3d",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13382185812292314",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13272154086919777",
+               "date_last_used": "0",
+               "guid": "720af6af-03fb-4e21-885f-8f200edee2b0",
+               "id": "11",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=iefav1819",
+               "visit_count": 0
+            } ],
+            "date_added": "13327506659392562",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1d07450f-8f2b-4ebe-9372-3e6948fa938f",
+            "id": "10",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13382185812292317",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13382185812292318",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCGK5s5eUAQAAKg4QABgBIAooBjAAOABAABIAKhg3WG1QeEhSZGpZdVdtQTNYazgwek5BPT1IA6AGDBKtAQgSEqgBChxxMGhid1gwWVQ0Q1FPckdhUEZNQjFiNVJTWFk9EiRmZTJlZjFjNC0yZTBlLTQwOTItYjQ4NC1jMWI1Y2IzNWFjNTEYACACKAIw+Z/hvckyON6nlPXYMUDm9+C9yTJKHFdsQTlCSkgyd2pEK09MbFFKbE9ZWDZsaXhROD1aHyId3S9CTml1Q1NtQ0VHUXpVM3lwUEVOS3oxSXU1bz1lsUSJCMI+AmAFEq0BCBESqAEKHDVLbXZKWS85ZkhTQmdIYTRxYlhaRmxBQXgxdz0SJDk5ZWJlZmVmLTE2MTMtNDllNC05NTI1LTViNmUxYzU3YTEwMBgAIAAoADDt1NjzzzE4qNXY888xQKjV2PPPMUocTThqK1FWTU0xN2cvaTJxNDRCWEtwN01XYVlNPVofIh27YkxUYlBNbzFNNE9VRytoYko3d2d2LzA0KzFjPWV3cGyjwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDVhODg5YTYtMWMwNC01Y2NjLTkwNmEtZjM1YzBmYTZjMGExGAAgACgAMOXyuN79MDjn9bje/TBA5/W43v0wShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEqwBCA0SpwEKHFB2bHl3b29JZFd0NXBKMlJjc2tHTnU3RlN5TT0SJGIxZWFhM2U4LTg2NmYtNGEwOS1hODRhLTM2NmY1N2U3MDRmNRgAIAIoAjD3n+G9yTI4n5O53v0wQOP34L3JMkocR3dCYTdTclJXL3F1Wk1mTk8yS2p3SUVvUU1vPVoeIhxWMFFSMFVlZTE2cmdCRWVzOXk3UGtEN21mMlE9ZRAw/+TCPgJgBRKsAQgQEqcBChxLS1hPY3NHQnRvV1BVR0JWUXBFQjJ2QXhOUWc9EiRjNDkxZjVkYi05MjMwLTQyMGUtYTBjNC0xNTg4NTU4YTQ0ZjQYACAAKAAw/+vZ5P0wOKbs2eT9MECm7Nnk/TBKHFdPU25CWDNmU2VFdjh5d2UvOW8rdTZaeFpuND1aHiIcdk44R2hNNm8zdmFzcHYxL21rVHdCZEZuOGs4PWUAAAAAwj4CYAUSrAEIDhKnAQocaXQ1enVTSUt4aVlkc28xSGF5TW9HMEVVTTh3PRIkYWE5ZDg5ZmQtODkwZS00YjQ5LTg1OGEtZmViYjRmNzY1NjlhGAAgAigCMPaf4b3JMjiBk7ne/TBA5ffgvckyShxYOVNxMUJIWGFaUk5MbDJ5bVkydi9rV2IyRUU9Wh4iHGtNVk5Xa2VhbklvUFdxQTFiL0ZHMXdVN2J3WT1lpxzSGcI+AmAFEqwBCAwSpwEKHDM4alVncFhUYWE3b20wS2dUZlpyayt3eDkybz0SJDYwNzhmMmFhLTc3MzAtNDUzNS1hOWZkLTY1Y2Y2ZTYzYjBmNhgAIAIoAjD1n+G9yTI45pK53v0wQOP34L3JMkocSDF5Si9vSDE4MEMxekZtbTRxK0pSQkVtNU1zPVoeIhw1TDAzR0dxd0tXYUMvR2lUZ2lEMzNETVZ4ZW89ZV/AF8DCPgJgBRKsAQgPEqcBChxWSFBXVHhkT3pkd29uUDRmeFJzYXd0Q28yWGs9EiQ4YWUxNjY3YS05ODAyLTRkODYtYWE1ZS0xMjZkYjBkMGUxMjUYACACKAIw+J/hvckyOLyTud79MEDl9+C9yTJKHENYNVJ5V3FUTzVRVHRtQkV1TXJyRjBDWXEzZz1aHiIcdTZ4a244Mmk5UHoxWkpvNFprcy93UWxXb1VvPWVfx7Kswj4CYAUSrAEICxKnAQocTDJWY3d3UE5Sai8wQWZpSUZqNGpSZE9hSCtRPRIkNzIwYWY2YWYtMDNmYi00ZTIxLTg4NWYtOGYyMDBlZGVlMmIwGAAgACgAMIHs2eT9MDja7Nnk/TBA2uzZ5P0wShx1bW1zZy9LMmxPWlI4SEVOQ2F0UEJaSFQxVnM9Wh4iHGVDRUFRWkRPdWZma2toYmJaRG9PMmQ1V083bz1lAAAAAMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGUzYjEwNmU2LTY2YjktNWFiZi1hZDUwLWY5OTU3NTYwZjM1ORgAIAAoADDg8rje/TA4xfS43v0wQMX0uN79MEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ5ZmZiNDY1My1kNzc3LTU4ODktYTUxNi0zMTMwMWEyOTRiMDUYACAAKAAw3/K43v0wOKz0uN79MECs9Lje/TBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrAEIChKnAQocczZEV3ZIVEVLaTQrcDNlMUxGd29CSUdlekZZPRIkMWQwNzQ1MGYtOGYyYi00ZWJlLTkzNzItM2U2OTQ4ZmE5MzhmGAAgACgAMIDs2eT9MDjB7Nnk/TBAwezZ5P0wShxCQnhyUXBqUWJqYXA5Rm05QnZ0K0lxWS9jZEU9Wh4iHDdyUTlPYzVtSGlqY0pHN1lrRzRBMGR6dmNqcz1lAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
